@@ -1,4 +1,4 @@
-//再起関数　P.210
+//再起関数　
 
 // function factorial(n){
 //     if(n != 0){
